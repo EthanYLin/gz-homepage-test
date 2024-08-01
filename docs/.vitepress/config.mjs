@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "GZ中学管理平台",
   description: "GZ中学管理平台主页",
+  base: "/gz-homepage-test/",
 
   themeConfig: {
 
